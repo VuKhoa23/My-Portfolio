@@ -150,7 +150,8 @@ body {
 
 /* disable a events */
 
-a {
+a,
+#nav-btn {
   text-decoration: none;
   color: black;
 }
