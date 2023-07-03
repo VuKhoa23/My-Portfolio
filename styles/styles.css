@@ -122,8 +122,8 @@ body {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  height: 40vh;
-  top: 60vh;
+  height: 5rem;
+  top: 65vh;
 }
 
 #contact-links {
@@ -133,7 +133,7 @@ body {
   width: 25rem;
   background-color: lightblue;
   border-radius: 5px;
-  height: 5rem;
+  height: 100%;
 }
 
 .contact-link {
@@ -195,7 +195,7 @@ a:active {
     top: 10rem;
   }
   #contact-container {
-    top: 27.5rem;
+    top: 31.25rem;
   }
 }
 
