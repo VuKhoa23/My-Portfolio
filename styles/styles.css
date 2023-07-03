@@ -180,19 +180,19 @@ a:active {
 
 /* Media queries */
 
-@media screen and (max-height: 630px) {
+@media screen and (max-height: 700px) {
   #self-introduce-field {
-    top: 15rem;
+    top: 15rem !important;
   }
   #greeting {
     position: relative;
-    top: 2rem;
+    top: 1.5rem;
   }
   #title-field {
     height: 13.5rem;
   }
   #portfolio-container {
-    top: 9.5rem;
+    top: 10rem;
   }
 }
 
