@@ -235,6 +235,7 @@ a:active {
     right: 0.25rem;
     background-color: var(white);
     border-radius: 5px;
+    cursor: pointer;
   }
   .show-nav-bar {
     height: 100vh;
