@@ -180,6 +180,22 @@ a:active {
 
 /* Media queries */
 
+@media screen and (max-height: 630px) {
+  #self-introduce-field {
+    top: 15rem;
+  }
+  #greeting {
+    position: relative;
+    top: 2rem;
+  }
+  #title-field {
+    height: 13.5rem;
+  }
+  #portfolio-container {
+    top: 9.5rem;
+  }
+}
+
 @media screen and (max-width: 480px) {
   #self-introduce-field {
     text-align: center;
