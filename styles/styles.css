@@ -194,6 +194,10 @@ a:active {
   #portfolio-container {
     top: 10rem;
   }
+  #contact-container {
+    height: 15rem;
+    top: 30rem;
+  }
 }
 
 @media screen and (max-width: 480px) {
